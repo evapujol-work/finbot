@@ -1,0 +1,15 @@
+# 🔒 Fitxers privats o locals
+.env
+finances.json
+
+# 🧠 Fitxers de Python temporals
+__pycache__/
+*.pyc
+*.pyo
+
+# 🗂️ Configuracions locals de l'IDE
+.vscode/
+.idea/
+
+# 🪄 Altres fitxers que no cal pujar
+.DS_Store
